@@ -5,7 +5,7 @@
 # Enrique Miranda
 # Gissela Granados
 def potencia(base, exponente):
-    return 
+    return base**exponente
 
 def multiplicar(n1, n2):
     return 
