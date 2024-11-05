@@ -8,7 +8,7 @@ def potencia(base, exponente):
     return base**exponente
 
 def multiplicar(n1, n2):
-    return 
+    return n1*n2
 
 def restar(num1, num2):
     return 
