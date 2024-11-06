@@ -19,7 +19,7 @@ def dividir(a, b):
     return
 
 def sumar(a, b):
-    return
+    return a + b
 
 def main():
     while True:
